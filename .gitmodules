@@ -1,0 +1,3 @@
+[submodule "Other/nebnext-single-cell-rna-seq"]
+	path = Other/nebnext-single-cell-rna-seq
+	url = https://github.com/nebiolabs/nebnext-single-cell-rna-seq.git
